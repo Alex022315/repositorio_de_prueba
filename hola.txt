@@ -1,2 +1,5 @@
 hola mundo
 que tal ?
+vamos a modificar el archivo hola mundo de la rama dos y somplemente cargarlo en un commit despues vere si puede subirla a rama uno o a la main
+
+en este caso vamos a ver el funcionamiento de los commits, antes de realizar una fusion con la rama main 
